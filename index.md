@@ -24,7 +24,7 @@ Please, get in touch if you are interested in PhD opportunities. The Centre for 
 * Xinyue Xu (MSc Sound and Music Computing, Queen Mary University of London)
 * [Andrés Sánchez Castrillón](https://www.linkedin.com/in/andres-sanchez-59a8331a6/) (MSc Artificial Intelligence, Queen Mary University of London)
 * [Tug O’Flaherty](https://tugoflaherty.com/) (MSc Sound and Music Computing, Queen Mary University of London)
-* James Shortland (MSc Data Science and Artificial Intelligence)
+* James Shortland (MSc Data Science and Artificial Intelligence, Queen Mary University of London)
 * [Aleksander Skutnik](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/) (BSc Computer Science, Queen Mary University of London)
 * [Stanley Parker](https://www.linkedin.com/in/stanley-parker-43113425a) (BSc Creative Computing, Queen Mary University of London)
 * Ning Liu (BSc(Eng)FT Electronic Engineering, Queen Mary University of London)
