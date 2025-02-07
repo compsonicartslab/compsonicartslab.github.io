@@ -6,7 +6,7 @@ The Computational Sonic Arts Laboratory is a research team based in the [Centre 
 
 Rooted in principles of culture, creativity, and community, the lab explores sonic creativities and creative computing through innovative research in creative AI, music AI, and intelligent music systems. The vision of the lab is to bridge HCI, sound and music computing, and new interfaces for musical expression, by emphasising live coding, network music, and generative sound-based music. The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.
 
-Research activities include:
+**Research activities include:**
 
 * The design, deployment and evaluation of intelligent sound-based music systems that keep the human in the loop and give ownership to communities of practice and perspectives generally underrepresented in music AI. 
 * The creation of sound-based music performances and sonic arts experiences that foster democratic principles in music making and raise awareness of real-world problems.
@@ -15,6 +15,18 @@ Research activities include:
 The lab hosts the AHRC-funded project [Sensing the Forest - Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI](https://sensingtheforest.github.io/), which pursues raising awareness and understanding of forest environmental data and how they relate to climate change.
 
 Please, get in touch if you are interested in PhD opportunities. The Centre for Digital Music of Queen Mary University of London [welcomes PhD applications for 2025](https://www.c4dm.eecs.qmul.ac.uk/get-involved/). 
+
+## News
+
+![](craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png)
+*Image generated using [Craiyon AI](https://www.craiyon.com)*
+
+We are happy to announce an exciting PhD position to work on **“Nature-inspired computing for sound-based DIY approaches to creative AI”** at the Centre for Digital Music, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+
+* Application deadline: **28th February 2025**
+* Requirements: **UK home student**
+* How to apply: **[https://www.qmul.ac.uk/eecs/phd/how-to-apply/](https://www.qmul.ac.uk/eecs/phd/how-to-apply/)**
+* You can find more info here: **[https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149](https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149)**
 
 ## Team
 
