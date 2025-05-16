@@ -1,396 +1,195 @@
 <!DOCTYPE html>
-<html>
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>index</title>
-
-
-<style type="text/css">
-body {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: white;
-  padding: 30px; }
-
-body > *:first-child {
-  margin-top: 0 !important; }
-body > *:last-child {
-  margin-bottom: 0 !important; }
-
-a {
-  color: #4183C4; }
-a.absent {
-  color: #cc0000; }
-a.anchor {
-  display: block;
-  padding-left: 30px;
-  margin-left: -30px;
-  cursor: pointer;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0; }
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 20px 0 10px;
-  padding: 0;
-  font-weight: bold;
-  -webkit-font-smoothing: antialiased;
-  cursor: text;
-  position: relative; }
-
-h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
-  text-decoration: none; }
-
-h1 tt, h1 code {
-  font-size: inherit; }
-
-h2 tt, h2 code {
-  font-size: inherit; }
-
-h3 tt, h3 code {
-  font-size: inherit; }
-
-h4 tt, h4 code {
-  font-size: inherit; }
-
-h5 tt, h5 code {
-  font-size: inherit; }
-
-h6 tt, h6 code {
-  font-size: inherit; }
-
-h1 {
-  font-size: 28px;
-  color: black; }
-
-h2 {
-  font-size: 24px;
-  border-bottom: 1px solid #cccccc;
-  color: black; }
-
-h3 {
-  font-size: 18px; }
-
-h4 {
-  font-size: 16px; }
-
-h5 {
-  font-size: 14px; }
-
-h6 {
-  color: #777777;
-  font-size: 14px; }
-
-p, blockquote, ul, ol, dl, li, table, pre {
-  margin: 15px 0; }
-
-hr {
-  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
-  border: 0 none;
-  color: #cccccc;
-  height: 4px;
-  padding: 0;
-}
-
-body > h2:first-child {
-  margin-top: 0;
-  padding-top: 0; }
-body > h1:first-child {
-  margin-top: 0;
-  padding-top: 0; }
-  body > h1:first-child + h2 {
-    margin-top: 0;
-    padding-top: 0; }
-body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
-  margin-top: 0;
-  padding-top: 0; }
-
-a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
-  margin-top: 0;
-  padding-top: 0; }
-
-h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
-  margin-top: 0; }
-
-li p.first {
-  display: inline-block; }
-li {
-  margin: 0; }
-ul, ol {
-  padding-left: 30px; }
-
-ul :first-child, ol :first-child {
-  margin-top: 0; }
-
-dl {
-  padding: 0; }
-  dl dt {
-    font-size: 14px;
-    font-weight: bold;
-    font-style: italic;
-    padding: 0;
-    margin: 15px 0 5px; }
-    dl dt:first-child {
-      padding: 0; }
-    dl dt > :first-child {
-      margin-top: 0; }
-    dl dt > :last-child {
-      margin-bottom: 0; }
-  dl dd {
-    margin: 0 0 15px;
-    padding: 0 15px; }
-    dl dd > :first-child {
-      margin-top: 0; }
-    dl dd > :last-child {
-      margin-bottom: 0; }
-
-blockquote {
-  border-left: 4px solid #dddddd;
-  padding: 0 15px;
-  color: #777777; }
-  blockquote > :first-child {
-    margin-top: 0; }
-  blockquote > :last-child {
-    margin-bottom: 0; }
-
-table {
-  padding: 0;border-collapse: collapse; }
-  table tr {
-    border-top: 1px solid #cccccc;
-    background-color: white;
-    margin: 0;
-    padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid #cccccc;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid #cccccc;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
-
-img {
-  max-width: 100%; }
-
-span.frame {
-  display: block;
-  overflow: hidden; }
-  span.frame > span {
-    border: 1px solid #dddddd;
-    display: block;
-    float: left;
-    overflow: hidden;
-    margin: 13px 0 0;
-    padding: 7px;
-    width: auto; }
-  span.frame span img {
-    display: block;
-    float: left; }
-  span.frame span span {
-    clear: both;
-    color: #333333;
-    display: block;
-    padding: 5px 0 0; }
-span.align-center {
-  display: block;
-  overflow: hidden;
-  clear: both; }
-  span.align-center > span {
-    display: block;
-    overflow: hidden;
-    margin: 13px auto 0;
-    text-align: center; }
-  span.align-center span img {
-    margin: 0 auto;
-    text-align: center; }
-span.align-right {
-  display: block;
-  overflow: hidden;
-  clear: both; }
-  span.align-right > span {
-    display: block;
-    overflow: hidden;
-    margin: 13px 0 0;
-    text-align: right; }
-  span.align-right span img {
-    margin: 0;
-    text-align: right; }
-span.float-left {
-  display: block;
-  margin-right: 13px;
-  overflow: hidden;
-  float: left; }
-  span.float-left span {
-    margin: 13px 0 0; }
-span.float-right {
-  display: block;
-  margin-left: 13px;
-  overflow: hidden;
-  float: right; }
-  span.float-right > span {
-    display: block;
-    overflow: hidden;
-    margin: 13px auto 0;
-    text-align: right; }
-
-code, tt {
-  margin: 0 2px;
-  padding: 0 5px;
-  white-space: nowrap;
-  border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 3px; }
-
-pre code {
-  margin: 0;
-  padding: 0;
-  white-space: pre;
-  border: none;
-  background: transparent; }
-
-.highlight pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px; }
-
-pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px; }
-  pre code, pre tt {
-    background-color: transparent;
-    border: none; }
-
-sup {
-    font-size: 0.83em;
-    vertical-align: super;
-    line-height: 0;
-}
-
-kbd {
-  display: inline-block;
-  padding: 3px 5px;
-  font-size: 11px;
-  line-height: 10px;
-  color: #555;
-  vertical-align: middle;
-  background-color: #fcfcfc;
-  border: solid 1px #ccc;
-  border-bottom-color: #bbb;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #bbb
-}
-
-* {
-	-webkit-print-color-adjust: exact;
-}
-@media screen and (min-width: 914px) {
-    body {
-        width: 854px;
-        margin:0 auto;
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
     }
-}
-@media print {
-	table, pre {
-		page-break-inside: avoid;
-	}
-	pre {
-		word-wrap: break-word;
-	}
-  body {
-    padding: 2cm; 
-  }
-}
-</style>
-
-
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
-
-<p><img src="csal-logo.png" alt=""></p>
-
-<h1 id="toc_0">Computational Sonic Arts Laboratory</h1>
-
-<p>The Computational Sonic Arts Laboratory is a research team based in the <a href="https://www.c4dm.eecs.qmul.ac.uk/">Centre for Digital Music</a> (C4DM) at Queen Mary University of London dedicated to advancing the intersection of sonic arts and cutting-edge technology. The lab is led by <a href="https://www.c4dm.eecs.qmul.ac.uk/">Dr Anna Xambó Sedó</a> and has been founded in 2025 as part of QMUL&#39;s Centre for Digital Music. </p>
-
-<p>Rooted in principles of culture, creativity, and community, the lab explores sonic creativities and creative computing through innovative research in creative AI, music AI, and intelligent music systems. The vision of the lab is to bridge HCI, sound and music computing, and new interfaces for musical expression, by emphasising live coding, network music, and generative sound-based music. The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.</p>
-
+<header id="title-block-header">
+<h1 class="title">Welcome to the Computational Sonic Arts Lab | C4DM |
+QMUL |</h1>
+</header>
+<p><img src="img/csal-logo.png" /></p>
+<h1 id="computational-sonic-arts-laboratory">Computational Sonic Arts
+Laboratory</h1>
+<blockquote>
+<p>The lab aims to become a research hub in developing sustainable,
+inclusive, and forward-thinking technologies that transform how we
+create, experience, and understand music.</p>
+</blockquote>
+<p>The Computational Sonic Arts Laboratory is a research team based in
+the <a href="https://www.c4dm.eecs.qmul.ac.uk/">Centre for Digital
+Music</a> (C4DM) at Queen Mary University of London dedicated to
+advancing the intersection of sonic arts and cutting-edge technology.
+The lab is led by <a href="https://www.c4dm.eecs.qmul.ac.uk/">Dr Anna
+Xambó Sedó</a> and has been founded in 2025 as part of QMUL’s Centre for
+Digital Music.</p>
+<p>Rooted in principles of <strong>culture</strong>,
+<strong>creativity</strong>, and <strong>community</strong>, the lab
+explores <strong>sonic creativities</strong> and <strong>creative
+computing</strong> through innovative research in <strong>creative
+AI</strong>, <strong>music AI</strong>, and <strong>intelligent music
+systems</strong>. The vision of the lab is to bridge
+<strong>HCI</strong>, <strong>sound and music computing</strong>, and
+<strong>new interfaces for musical expression</strong>, by emphasising
+<strong>live coding</strong>, <strong>network music</strong>, and
+<strong>generative sound-based music</strong>. The lab aims to become a
+research hub in developing sustainable, inclusive, and forward-thinking
+technologies that transform how we create, experience, and understand
+music.</p>
 <p><strong>Research activities include:</strong></p>
-
 <ul>
-<li>The design, deployment and evaluation of intelligent sound-based music systems that keep the human in the loop and give ownership to communities of practice and perspectives generally underrepresented in music AI. </li>
-<li>The creation of sound-based music performances and sonic arts experiences that foster democratic principles in music making and raise awareness of real-world problems.</li>
-<li>The design and development of sustainable and DIY systems based on interdisciplinary methods involving art, science and engineering and in alignment with open source, open hardware, citizen science and the <a href="https://makezine.com/article/maker-news/the-makers-bill-of-rights/">Maker&#39;s Bill of Rights</a>. </li>
+<li>The design, deployment and evaluation of intelligent sound-based
+music systems that keep the human in the loop and give ownership to
+communities of practice and perspectives generally underrepresented in
+music AI.</li>
+<li>The creation of sound-based music performances and sonic arts
+experiences that foster democratic principles in music making and raise
+awareness of real-world problems.</li>
+<li>The design and development of sustainable and DIY systems based on
+interdisciplinary methods involving art, science and engineering and in
+alignment with open source, open hardware, citizen science and the <a
+href="https://makezine.com/article/maker-news/the-makers-bill-of-rights/">Maker’s
+Bill of Rights</a>.</li>
 </ul>
-
-<p>The lab hosts the AHRC-funded project <a href="https://sensingtheforest.github.io/">Sensing the Forest - Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI</a>, which pursues raising awareness and understanding of forest environmental data and how they relate to climate change.</p>
-
-<p>Please, get in touch if you are interested in PhD opportunities. The Centre for Digital Music of Queen Mary University of London <a href="https://www.c4dm.eecs.qmul.ac.uk/get-involved/">welcomes PhD applications for 2025</a>. </p>
-
-<h2 id="toc_1">News</h2>
-
-<p><img src="craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png" alt="">
-<em>Image generated using <a href="https://www.craiyon.com">Craiyon AI</a></em></p>
-
-<p>We are happy to announce an exciting PhD position to work on <strong>“Nature-inspired computing for sound-based DIY approaches to creative AI”</strong> at the Centre for Digital Music, School of Electronic Engineering and Computer Science, Queen Mary University of London. </p>
-
+<p>The lab hosts the AHRC-funded project <a
+href="https://sensingtheforest.github.io/">Sensing the Forest - Let the
+Forest Speak using the Internet of Things, Acoustic Ecology and Creative
+AI</a>, which pursues raising awareness and understanding of forest
+environmental data and how they relate to climate change.</p>
+<p>Please, get in touch if you are interested in PhD opportunities. The
+Centre for Digital Music of Queen Mary University of London <a
+href="https://www.c4dm.eecs.qmul.ac.uk/get-involved/">welcomes PhD
+applications for 2025</a>.</p>
+<h2 id="news">News</h2>
+<h3 id="may-2025">May 2025</h3>
+<h4 id="dr-anna-xambó---keynote-paper-and-performance-at-iclc2025">Dr
+Anna Xambó - keynote, paper and performance at ICLC2025</h4>
+<p><img src="img/iclc-logo-2025-black.png" /> <em>ICLC 2025
+logo</em></p>
+<p>CSAL’s Anna Xambó will be giving a keynote on Wednesday 28 May
+16:30-17:30 on “Liveness as an open work: an ongoing live-coding
+algorithmic journey” at the International Conference on Live Coding
+(ICLC).</p>
+<p>On Thursday 29 May she will also deliver the paper co-authored paper
+<a
+href="https://iclc.toplap.org/2025/catalogue/paper/building-a-dataset-of-personal-live-coding-style-using-a-journal.html">“Building
+a Dataset of Personal Live Coding Style Using MIRLCaProxy - A Journal of
+Creative Sonic Exploration under Constraints and Biases”</a> and will
+perform in the evening the live-coding session <a
+href="https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html">“Sensing
+the Alice Holt Forest”</a>.</p>
+<p>For more info visit: <a
+href="https://iclc.toplap.org/2025/">https://iclc.toplap.org/2025/</a></p>
+<h4 id="bsc-student-stanley-parker-wins-a-hackathon">BSc student Stanley
+Parker wins a hackathon</h4>
+<p><img src="img/bluecrabs.jpg" /> <em>BlueCrabs team at the Open Sea
+Lab 4.0 Hackathon</em></p>
+<p><a
+href="https://www.qmul.ac.uk/eecs/news-and-events/news/items/crab-alert-hackathon-team-builds-award-winning-early-warning-system-for-invasive-species.html">Crab
+Alert: Hackathon team builds award-winning early warning system for
+invasive species.</a> Stanley Parker, a third-year BSc Creative
+Computing student at the School of Electronic Engineering and Computer
+Science, recently took part in Open Sea Lab 4.0, a prestigious
+international hackathon focused on ocean innovation.</p>
+<h3 id="feb-2025">Feb 2025</h3>
+<h4 id="phd-position-available-at-the-lab">PhD position available at the
+lab</h4>
+<p><img
+src="img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png" />
+<em>Image generated using <a href="https://www.craiyon.com">Craiyon
+AI</a></em></p>
+<p>We are happy to announce an exciting PhD position to work on
+<strong>“Nature-inspired computing for sound-based DIY approaches to
+creative AI”</strong> at the Centre for Digital Music, School of
+Electronic Engineering and Computer Science, Queen Mary University of
+London.</p>
 <ul>
 <li>Application deadline: <strong>28th February 2025</strong></li>
 <li>Requirements: <strong>UK home student</strong></li>
-<li>How to apply: <strong><a href="https://www.qmul.ac.uk/eecs/phd/how-to-apply/">https://www.qmul.ac.uk/eecs/phd/how-to-apply/</a></strong></li>
-<li>You can find more info here: <strong><a href="https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149">https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149</a></strong></li>
+<li>How to apply: <strong><a
+href="https://www.qmul.ac.uk/eecs/phd/how-to-apply/">https://www.qmul.ac.uk/eecs/phd/how-to-apply/</a></strong></li>
+<li>You can find more info here: <strong><a
+href="https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149">https://www.findaphd.com/phds/project/nature-inspired-computing-for-sound-based-diy-approaches-to-creative-ai/?p182149</a></strong></li>
 </ul>
-
-<h2 id="toc_2">Team</h2>
-
+<h2 id="team">Team</h2>
 <ul>
-<li><a href="https://annaxambo.me/">Dr Anna Xambó</a> (Senior Lecturer in Sound and Music Computing, Queen Mary University of London)</li>
-<li><a href="http://www.luigimarino.net/">Dr Luigi Marino</a> (Research Fellow in Sound and Music Computing, Queen Mary University of London)</li>
-<li><a href="https://jasperzheng.cc/">Shuoyang Zheng</a> (PhD student, Queen Mary University of London)</li>
-<li>Xinyue Xu (MSc Sound and Music Computing, Queen Mary University of London)</li>
-<li><a href="https://www.linkedin.com/in/andres-sanchez-59a8331a6/">Andrés Sánchez Castrillón</a> (MSc Artificial Intelligence, Queen Mary University of London)</li>
-<li><a href="https://tugoflaherty.com/">Tug O’Flaherty</a> (MSc Sound and Music Computing, Queen Mary University of London)</li>
-<li>James Shortland (MSc Data Science and Artificial Intelligence, Queen Mary University of London)</li>
-<li><a href="https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/">Aleksander Skutnik</a> (BSc Computer Science, Queen Mary University of London)</li>
-<li><a href="https://www.linkedin.com/in/stanley-parker-43113425a">Stanley Parker</a> (BSc Creative Computing, Queen Mary University of London)</li>
-<li>Ning Liu (BSc(Eng)FT Electronic Engineering, Queen Mary University of London)</li>
-<li>Amrina Kaur Virk (BSc Creative Computing, Queen Mary University of London)</li>
+<li><a href="https://annaxambo.me/">Dr Anna Xambó</a> (Senior Lecturer
+in Sound and Music Computing, Queen Mary University of London)</li>
+<li><a href="http://www.luigimarino.net/">Dr Luigi Marino</a> (Research
+Fellow in Sound and Music Computing, Queen Mary University of
+London)</li>
+<li><a href="https://jasperzheng.cc/">Shuoyang Zheng</a> (PhD student,
+AIM/C4DM, Queen Mary University of London)</li>
+<li><a href="https://uk.linkedin.com/in/qiaoxi-z-2a2b39137">Qiaoxi
+Zhang</a> (PhD student, AIM/C4DM, Queen Mary University of London)</li>
+<li>Xinyue Xu (MSc Sound and Music Computing, Queen Mary University of
+London)</li>
+<li><a
+href="https://www.linkedin.com/in/andres-sanchez-59a8331a6/">Andrés
+Sánchez Castrillón</a> (MSc Artificial Intelligence, Queen Mary
+University of London)</li>
+<li><a href="https://tugoflaherty.com/">Tug O’Flaherty</a> (MSc Sound
+and Music Computing, Queen Mary University of London)</li>
+<li>James Shortland (MSc Data Science and Artificial Intelligence, Queen
+Mary University of London)</li>
+<li><a
+href="https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/">Aleksander
+Skutnik</a> (BSc Computer Science, Queen Mary University of London)</li>
+<li><a
+href="https://www.linkedin.com/in/stanley-parker-43113425a">Stanley
+Parker</a> (BSc Creative Computing, Queen Mary University of
+London)</li>
+<li>Ning Liu (BSc(Eng)FT Electronic Engineering, Queen Mary University
+of London)</li>
+<li>Amrina Kaur Virk (BSc Creative Computing, Queen Mary University of
+London)</li>
 </ul>
-
-<h2 id="toc_3">Publications</h2>
-
+<h2 id="publications">Publications</h2>
 <ul>
-<li>Xambó, A., Roma, G. (2025) <a href="https://www.tandfonline.com/doi/full/10.1080/09298215.2024.2442355">Human–machine agencies in live coding for music performance</a>. Journal of New Music Research.</li>
-<li>Marino, L., Xambó, A. (2024) <a href="https://static1.squarespace.com/static/6227c31a43daf21135453605/t/673e659f730d2433d5916462/1732142495610/21+Luigi+Marino+and+Anna+Xambo%CC%81.pdf">Developing DIY solar-powered, off-grid audio streamers for forest soundscapes: progress and challenges</a>. Proceedings of CHIME Annual Conference, The Open University, 1-2 December 2024.</li>
+<li>Xambó, A., Roma, G. (2025 forthcoming) Building a Dataset of
+Personal Live Coding Style Using MIRLCaProxy - A Journal of Creative
+Sonic Exploration under Constraints and Biases. <em>Proceedings of the
+International Conference of Live Coding</em>.</li>
+<li>O’Flaherty, T. F., Marino, L., Saitis, C., Xambó, A. (2025
+forthcoming) Sonicolour: Exploring Colour Control of Sound Synthesis
+with Interactive Machine Learning. <em>Proceedings of the New Interfaces
+for Musical Expression</em>.</li>
+<li>Xambó, A. (2025) <a href="https://zenodo.org/records/15283062">Live
+Coding a Chorale of Sounds Using MIRLCa: State of Affairs and
+Implications</a>. <em>SuperCollider Symposium 2025</em>, Johns Hopkins
+University Bloomberg Center, Washington D.C., USA. <a
+href="https://doi.org/10.5281/zenodo.15283062">https://doi.org/10.5281/zenodo.15283062</a></li>
+<li>Xambó, A., Roma, G. (2024) <a
+href="https://www.tandfonline.com/doi/full/10.1080/09298215.2024.2442355">Human–machine
+agencies in live coding for music performance</a>. <em>Journal of New
+Music Research</em>, 53(1–2), 33–46. <a
+href="https://doi.org/10.1080/09298215.2024.2442355">https://doi.org/10.1080/09298215.2024.2442355</a>.</li>
+<li>Marino, L., Xambó, A. (2024) <a
+href="https://static1.squarespace.com/static/6227c31a43daf21135453605/t/673e659f730d2433d5916462/1732142495610/21+Luigi+Marino+and+Anna+Xambo%CC%81.pdf">Developing
+DIY solar-powered, off-grid audio streamers for forest soundscapes:
+progress and challenges</a>. Proceedings of CHIME Annual Conference, The
+Open University, 1-2 December 2024.</li>
 </ul>
-
-
-
-
 </body>
-
 </html>
