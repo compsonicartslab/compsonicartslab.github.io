@@ -7,7 +7,7 @@ tags:
 
 > ## The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.
 
-The Computational Sonic Arts Laboratory is a research team based in the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) (C4DM) at Queen Mary University of London dedicated to advancing the intersection of sonic arts and cutting-edge technology. The lab is led by [Dr Anna Xambó Sedó](https://www.c4dm.eecs.qmul.ac.uk/) and has been founded in 2025 as part of QMUL's Centre for Digital Music. 
+The Computational Sonic Arts Laboratory (CSAL) is a research team based in the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) (C4DM) at Queen Mary University of London dedicated to advancing the intersection of sonic arts and cutting-edge technology. The lab is led by [Dr Anna Xambó Sedó](https://www.c4dm.eecs.qmul.ac.uk/) and has been founded in 2025 as part of QMUL's Centre for Digital Music. 
 
 Rooted in principles of **culture**, **creativity**, and **community**, the lab explores **sonic creativities** and **creative computing** through innovative research in **creative AI**, **music AI**, and **intelligent music systems**. The vision of the lab is to bridge **HCI**, **sound and music computing**, and **new interfaces for musical expression**, by emphasising **live coding**, **network music**, and **generative sound-based music**. The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.
 
