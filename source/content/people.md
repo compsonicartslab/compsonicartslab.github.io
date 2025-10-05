@@ -14,6 +14,7 @@ tags:
 * [Lina Bautista](https://linalab.com/) (PhD student 2025-present, co-supervision with Enric Mor, UOC)
 * [Dr Luigi Marino](http://www.luigimarino.net/) (Research Fellow in Sound and Music Computing, Queen Mary University of London, 2023-2025)
 * [Tug O’Flaherty](https://tugoflaherty.com/) (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2024-25)
+* Merlin Goldman (PhD student starting in 2026, C4DM, co-supervision with Mark Sandler)
 
 ### UG project students
 

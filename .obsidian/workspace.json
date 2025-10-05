@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/publications.md",
+                "file": "source/content/people.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "people"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "34cd0296771f171b",
   "lastOpenFiles": [
+    "source/content/publications.md",
     "source/content/about.md",
     "source/content/index.md",
     "source/content/News/index.md",
@@ -215,7 +216,6 @@
     "source/docs/plugins/Frontmatter.md",
     "source/docs/plugins/FolderPage.md",
     "source/docs/plugins/ExplicitPublish.md",
-    "source/docs/plugins/Description.md",
-    "source/docs/plugins/CreatedModifiedDate.md"
+    "source/docs/plugins/Description.md"
   ]
 }
