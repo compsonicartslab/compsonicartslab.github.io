@@ -6,7 +6,6 @@ title: Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |
 
 ## Latest News
 
-
 |                                                                                                                              |                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="img/iclc-logo-2025-black.png" width="250" />                                                                       | [[Dr Anna Xambó - keynote, paper and performance at ICLC2025]] Anna Xambó will be giving a keynote on Wednesday 28 May 16:30-17:30 on "Liveness as an open work: an ongoing live-coding algorithmic journey" at the International Conference on Live Coding (ICLC).                  |
