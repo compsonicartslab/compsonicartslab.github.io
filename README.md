@@ -1,5 +1,11 @@
-# compsonicartslab.github.io
+# Quartz notebook
 
-In the terminal, run:
+To run locally, run npm install then:
 
-`pandoc -f markdown -t html -o index.html index.md --css style.css -s --metadata title="Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |"`
+```
+npx quartz build --serve
+```
+
+Otherwise, just push to GitHub and CI will build & deploy the HTML.
+
+Forked from: https://github.com/jackyzha0/quartz
