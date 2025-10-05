@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "2e9225e34664efd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0571c1c94d829fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ef711f7e8c1d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          },
+          {
+            "id": "7d98cac79ee7340f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "publications"
+            }
+          },
+          {
+            "id": "5dee297f8f06c94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d91d081ff7c34018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "publications"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1243752a4df710bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4c81639dc8783e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77831b90dd9f87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0829eb50dbb8a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "436d75c49c949463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba1ec06a672fb227",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cea78168fbf9ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa5a4c073617928",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "5acb7020384970a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "f850ba7e9e699bea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d9129bb8dcf7983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d91d081ff7c34018",
+  "lastOpenFiles": [
+    "index.md",
+    "News/2025/02/PhD position available at the lab.md",
+    "News/2025/05/Dr Anna Xambó - keynote, paper and performance at ICLC2025.md",
+    "News/2025/05/BSc student Stanley Parker wins a hackathon.md",
+    "News/2025/05/index.md",
+    "News/2025/02/index.md",
+    "News/index.md",
+    "News/2025/index.md",
+    "News/2025/05",
+    "News/Untitled.md",
+    "News/2025/02/Untitled.md",
+    "people.md",
+    "News/2025/02",
+    "News/2025",
+    "c.md",
+    "about.md",
+    "publications.md",
+    "About~.md",
+    "Untitled",
+    "_templates/note~.md",
+    "news/Some note.md",
+    "_templates/note.md",
+    "_templates",
+    "untitled folder",
+    "img/iclc-logo-2025-black.svg",
+    "img/iclc-logo-2025-black.png",
+    "img/csal-logo.png",
+    "img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png",
+    "img/bluecrabs.jpg",
+    "img",
+    "News"
+  ]
+}
