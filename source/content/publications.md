@@ -7,6 +7,7 @@ tags:
 
 ## 2025
 
+* Zheng, S. J., Xambó Sedó, A., & Bryan-Kinns, N. (2025). Exploring gestural affordances in audio latent space navigation. _Frontiers in Computer Science_. [https://doi.org/10.3389/fcomp.2025.1575202](https://doi.org/10.3389/fcomp.2025.1575202) 
 * O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.
 * Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/110219/Xambo%20Soundscape-based%20music%202025%20Accepted.pdf?sequence=2), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK.
 * Xambó, A., Roma, G. (2025) [Building a Dataset of Personal Live Coding Style Using MIRLCaProxy - A Journal of Creative Sonic Exploration under Constraints and Biases](https://zenodo.org/records/15527968). In _Proceedings of the International Conference of Live Coding_. https://doi.org/10.5281/zenodo.15698928
