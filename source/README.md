@@ -1,6 +1,6 @@
 # Quartz notebook
 
-To run locally, run npm install then:
+To run locally, run npm install, go to `source` then:
 
 ```
 npx quartz build --serve

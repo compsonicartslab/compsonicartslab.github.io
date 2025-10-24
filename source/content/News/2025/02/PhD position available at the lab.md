@@ -2,7 +2,9 @@
 title: PhD position available at the lab
 draft: false
 tags:
-  - 
+  - DIY
+  - creative-AI
+  - nature-inspired-computing
 date: 2025-02-01
 ---
 ![](img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png)

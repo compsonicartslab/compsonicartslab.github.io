@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     logo: "/static/csal-logo.png",
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "compsonicartslab.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
