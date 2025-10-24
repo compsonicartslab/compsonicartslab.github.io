@@ -1,5 +1,5 @@
 ---
-title: Dr Gerard Roma and Dr Anna Xambó present a poster  at UKAIRS 2025
+title: Dr Gerard Roma and Dr Anna Xambó present a poster at UKAIRS 2025
 draft: false
 tags:
   - UKRI
