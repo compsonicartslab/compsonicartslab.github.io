@@ -24,6 +24,7 @@ tags:
 * Hudhayfa Abdus-Salaam Ahmed (BSc Computer Science, Queen Mary University of London, BSc project 2025-2026)
 * Molly Hall (BSc Computer Science,  Queen Mary University of London, BSc project 2025-2026) 
 * Veer Arora (BSc Computer Science,  Queen Mary University of London, BSc project 2025-2026)
+
 ## Alumni
 
 ### MSc project students

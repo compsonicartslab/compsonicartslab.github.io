@@ -4,8 +4,8 @@ title: Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |
 
 [[about]] | [[publications]] | [[people]] 
 
-![](img/C4DM-CSAL-20251016-photo-by-Shuoyang-Zheng.jpg)
-*From left to right: Shuoyang Zheng, Lianganzi Wang, Anna Xambó Sedó, Nico García-Peguinho, Merlin Goldman and Jimena Arruti. Photo by Shuoyang Zheng.*
+![](img/C4DM-CSAL-20251016-photo-v3-by-Shuoyang-Zheng.jpg)
+*From left to right: Shuoyang Zheng, Lianganzi Wang, Anna Xambó Sedó, Nico García-Peguinho, Merlin Goldman and Jimena Arruti. Top, from left to right: Lina Bautista, Qiaoxi Zhang and Solomiya Moroz. Photo and photo composition by Shuoyang Zheng.*
 ## Latest News
 
 |                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
