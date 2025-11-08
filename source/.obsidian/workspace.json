@@ -169,8 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c2fca07ec7fc2f3",
+  "active": "7dba00ff709efea5",
   "lastOpenFiles": [
+    "content/News/index.md",
+    "content/News/2025/11/Exciting PhD Studentship Open in Our Lab Funded by China Scholarship Council.md",
+    "content/index.md",
+    "content/publications.md",
+    "content/News/2025/02/PhD position available at the lab.md",
+    "public/img/craiyon-geometric-patterns.jpg",
+    "content/img/craiyon-geometric-patterns.jpg",
+    "content/craiyon-geometric-patterns.jpg",
+    "craiyon-geometric-patterns.jpg",
+    "public/News/2025/11/Exciting-PhD-Studentship-Open-in-Our-Lab-Funded-by-China-Scholarship-Council.html",
+    "content/News/2025/11/Tug F. O'Flaherty and Dr Anna Xambó - Paper and performance at WAC 2025.md",
+    "content/News/2025/11/note.md",
+    "content/News/2025/11/index.md",
+    "public/News/2025/11/Exciting-CSC-PhD-Studentship-Open-in-Our-Research-Lab---Apply-Now!.html",
+    "public/News/2025/11/A-CSC-PhD-Studentship-is-available-in-the-lab.html",
+    "public/News/2025/11/A-CSC-PhD-Studentship-available-in-the-lab.html",
+    "content/News/2025/index.md",
     "README.md",
     "public/404.html",
     "public/img/favicon/favicon.png",
@@ -180,19 +197,10 @@
     "public/img/csal-logo.png",
     "public/img/streamers.jpg",
     "public/img/favicon",
-    "public/img/C4DM-CSAL-20251016-photo-v3-by-Shuoyang-Zheng.jpg",
-    "public/img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png",
-    "public/img/bluecrabs.jpg",
-    "public/img/20250909_UKAIRS_StF_project_AnnaXambo_GerardRoma.jpg",
     "public/img",
     "public/static/contentIndex.json",
     "public/static",
     "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/soundscape-based-music.html",
-    "public/tags/sensing-the-forest.html",
-    "public/tags/presentations.html",
-    "content/people.md",
-    "content/index.md"
+    "content/people.md"
   ]
 }
