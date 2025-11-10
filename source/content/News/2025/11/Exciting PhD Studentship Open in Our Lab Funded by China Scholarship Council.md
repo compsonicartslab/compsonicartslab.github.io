@@ -15,15 +15,11 @@ date: 2025-05-15
 We are happy to announce an exciting PhD position to work on **“Sonification techniques for understanding hidden processes of LLMs”** at the Centre for Digital Music, School of Electronic Engineering and Computer Science, Queen Mary University of London, funded by the China Scholarship Council (CSC). 
 
 **Primary supervisor**: Dr Anna Xambó Sedó <br />
-**Second supervisor**: Dr Charalamos Saitis
+**Second supervisor**: Dr Charalampos Saitis
 
 **Topic**: Large language models (LLMs) are a type of artificial intelligence program that can recognise and generate text, which are trained on huge sets of data with a complex network of hidden processes. This PhD topic explores sonification techniques of LLMs for a better understanding of the way they process the information. Can we treat LLM engines such as ChatGPT as a musical instrument and listen to its internal processes? Can sonification techniques help us to hear and see how the information is processed? Compared to vinyl records or tape recordings, what is the acoustic signature, and what are the artefacts that are distinctive of this new medium? This work will contribute to addressing an important challenge in AI: making the inner workings and hidden knowledge of models more interpretable for people.
 
 **Keywords**: sonification, large language models (LLMs), explainable AI
-
-**Eligibility criteria and details of the scheme** 
-
-[https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html)
 
 **Application Deadline**
 
