@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publications.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "index"
             }
           }
         ],
@@ -216,7 +216,9 @@
   },
   "active": "d91d081ff7c34018",
   "lastOpenFiles": [
+    "PhD Opportunity - QMUL S and E Underrepresented Group Studentships.md",
     "index.md",
+    "publications.md",
     "News/2025/02/PhD position available at the lab.md",
     "News/2025/05/Dr Anna Xambó - keynote, paper and performance at ICLC2025.md",
     "News/2025/05/BSc student Stanley Parker wins a hackathon.md",
@@ -232,7 +234,6 @@
     "News/2025",
     "c.md",
     "about.md",
-    "publications.md",
     "About~.md",
     "Untitled",
     "_templates/note~.md",

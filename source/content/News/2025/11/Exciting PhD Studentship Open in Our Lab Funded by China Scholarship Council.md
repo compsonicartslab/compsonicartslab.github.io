@@ -7,6 +7,9 @@ tags:
   - large language models
   - explainable AI
 date: 2025-11-15
+socialImage: ../content/img//craiyon-geometric-patterns.jpg
+image: ../content/img//craiyon-geometric-patterns.jpg
+cover: ../content/img//craiyon-geometric-patterns.jpg
 ---
 
 
