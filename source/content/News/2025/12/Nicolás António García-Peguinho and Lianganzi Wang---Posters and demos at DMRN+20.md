@@ -1,5 +1,5 @@
 ---
-title: "Nicolás António García-Peguinho and Lianganzi Wang - Poster & demos at DMRN+20"
+title: "Nicolás António García-Peguinho and Lianganzi Wang - Poster and demos at DMRN+20"
 draft: false
 tags:
   - AI audio generation
