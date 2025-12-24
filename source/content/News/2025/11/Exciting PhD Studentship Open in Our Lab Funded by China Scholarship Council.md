@@ -26,7 +26,7 @@ We are happy to announce an exciting PhD position to work on **“Sonification t
 
 **Application Deadline**
 
-* Application deadline: **28th February 2026**
+* Application deadline: **28th January 2026**
 * Eligibility criteria and details of the scheme: **[https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html)**
 * How to apply: **[http://eecs.qmul.ac.uk/phd/how-to-apply/](http://eecs.qmul.ac.uk/phd/how-to-apply/)**
 * You can find more info here: 
