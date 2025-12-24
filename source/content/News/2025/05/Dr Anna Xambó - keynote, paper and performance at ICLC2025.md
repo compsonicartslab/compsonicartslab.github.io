@@ -6,6 +6,9 @@ tags:
   - live-coding
   - liveness
   - conferences
+  - keynotes
+  - performances
+  - papers
 date: 2025-05-15
 permalink:
 ---

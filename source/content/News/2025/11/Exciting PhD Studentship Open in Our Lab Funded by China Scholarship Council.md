@@ -1,9 +1,12 @@
 ---
 title: Exciting PhD Studentship Open in Our Lab Funded by China Scholarship Council
 draft: false
-tags:
-  - 
-date: 2025-05-15
+tags: 
+  - studenship
+  - sonification
+  - large language models
+  - explainable AI
+date: 2025-11-15
 ---
 
 

@@ -2,7 +2,9 @@
 title: BSc student Stanley Parker wins a hackathon
 draft: false
 tags:
-  - 
+  - hackathons
+  - oceans
+  - awards
 date: 2025-05-01
 ---
 ![](img/bluecrabs.jpg)

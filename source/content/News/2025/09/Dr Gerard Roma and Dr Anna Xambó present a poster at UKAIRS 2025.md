@@ -3,11 +3,13 @@ title: Dr Gerard Roma and Dr Anna Xambó present a poster at UKAIRS 2025
 draft: false
 tags:
   - UKRI
-  - sensing-the-forest
+  - Sensing the Forest
   - UKAIRS
   - conferences
   - soundscape-based-music
   - creative-AI
+  - posters
+  - papers
 date: 2025-09-10
 ---
 ![](img/20250909_UKAIRS_StF_project_AnnaXambo_GerardRoma.jpg)
