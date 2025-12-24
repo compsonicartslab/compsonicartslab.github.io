@@ -1,5 +1,5 @@
 ---
-title: "Tug OFlaherty and Dr Anna Xambó - Paper and performance at WAC 2025"
+title: "Tug O'Flaherty and Dr Anna Xambó - Paper and performance at WAC 2025"
 draft: false
 tags:
   - sonification
