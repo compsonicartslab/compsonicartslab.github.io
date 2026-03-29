@@ -4,7 +4,10 @@ draft: false
 tags:
   -
 ---
+## 2026
 
+- Marino, Luigi (2026) [Building DIY Solar-Powered Audio Streamers: A Three-Phase Tutorial Series](https://doi.org/10.17636/101124743). Edited by Anna Xambó. Queen Mary University of London. [https://doi.org/10.17636/101124743](https://doi.org/10.17636/101124743)
+- Elmokadem, Mahmoud B., Manjunatha, Krishna N., Xenakis, George, Xambó, Anna (2026) [Environmental Parameters Sensing (EPS) Unit](https://doi.org/10.17636/101124744). Edited by Anna Xambó. Queen Mary University of London. [https://doi.org/10.17636/101124744](https://doi.org/10.17636/101124744)
 ## 2025
 
 * Zheng, S. J., Xambó Sedó, A., & Bryan-Kinns, N. (2025). [Exploring gestural affordances in audio latent space navigation](https://doi.org/10.3389/fcomp.2025.1575202). _Frontiers in Computer Science_. [https://doi.org/10.3389/fcomp.2025.1575202](https://doi.org/10.3389/fcomp.2025.1575202) 

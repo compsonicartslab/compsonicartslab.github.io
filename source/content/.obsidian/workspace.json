@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "publications"
             }
-          },
-          {
-            "id": "5dee297f8f06c94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d91d081ff7c34018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,39 +186,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d91d081ff7c34018",
+  "active": "7d98cac79ee7340f",
   "lastOpenFiles": [
-    "PhD Opportunity - QMUL S and E Underrepresented Group Studentships.md",
-    "index.md",
+    "News/2026/03/Sonar+D 2026 programme announced.md",
     "publications.md",
+    "Apply.md",
+    "News/2026/03/Apply now to take part in our AI Performance Playground 2026.md",
+    "index.md",
+    "News/2026/03/Sonar+D 2026 Programme Announced.md",
+    "News/2026/03/Apply now to take part in our AI Performance Playground 2026 copy.md",
+    "img/Sonar+D_2026_FEED.png",
+    "img/FEED.png",
+    "News/index.md",
+    "News/2025/index.md",
+    "News/2026/03/index.md",
+    "img/EN_Hacklab_2026_4-5.png",
+    "img/EN_Hacklab_4-5.png",
+    "News/2025/12/Nicolás-António-García-Peguinho-and-Lianganzi-Wang-at-DMRN+20.md",
+    "people.md",
+    "News/2025/11/Dr Anna Xambó - Paper and performance at WAC 2025.md",
+    "img/EN_Hacklab_2026.png",
+    "img/EN_Hacklab_LinkedIn.png",
+    "News/2026/03/index~.md",
+    "News/2026/03/PhD position available at the lab.md",
+    "News/2026/03",
+    "News/2026/02/index.md",
+    "News/2026/02/PhD position available at the lab.md",
+    "News/2026/02",
+    "News/2026",
+    "News/untitled folder",
+    "PhD Opportunity - QMUL S and E Underrepresented Group Studentships.md",
     "News/2025/02/PhD position available at the lab.md",
     "News/2025/05/Dr Anna Xambó - keynote, paper and performance at ICLC2025.md",
     "News/2025/05/BSc student Stanley Parker wins a hackathon.md",
     "News/2025/05/index.md",
     "News/2025/02/index.md",
-    "News/index.md",
-    "News/2025/index.md",
     "News/2025/05",
     "News/Untitled.md",
     "News/2025/02/Untitled.md",
-    "people.md",
     "News/2025/02",
     "News/2025",
     "c.md",
-    "about.md",
-    "About~.md",
     "Untitled",
-    "_templates/note~.md",
-    "news/Some note.md",
-    "_templates/note.md",
     "_templates",
     "untitled folder",
     "img/iclc-logo-2025-black.svg",
     "img/iclc-logo-2025-black.png",
     "img/csal-logo.png",
-    "img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png",
-    "img/bluecrabs.jpg",
-    "img",
-    "News"
+    "img/craiyon_162415_Nature_inspired_computing_for_sound_based_DIY_approaches_to_creative_AI_opt.png"
   ]
 }
