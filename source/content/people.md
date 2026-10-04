@@ -11,15 +11,20 @@ tags:
 * [Qiaoxi Zhang](https://uk.linkedin.com/in/qiaoxi-z-2a2b39137) (PhD student 2023-present, co-supervision with Mathieu Barthet, AIM/C4DM, Queen Mary University of London)
 * [Nicolás António García-Peguinho](https://www.linkedin.com/in/nico-g-p/?originalSubdomain=uk) (PhD student 2025-present, co-supervision with Fabrizio Smeraldi, C4DM, Queen Mary University of London)
 * Lianganzi Wang (PhD student 2025-present, C4DM, co-supervision with Iran Roman)
-* [Merlin Goldman](https://www.merlingoldman.com) (PhD student 2026-present, C4DM, co-supervision with Mark Sandler)
 * [Lina Bautista](https://linalab.com/) (PhD student 2025-present, co-supervision with Enric Mor, UOC)
-* [Dr Luigi Marino](http://www.luigimarino.net/) (Research Fellow in Sound and Music Computing, Queen Mary University of London, 2023-2025)
+* [Merlin Goldman](https://www.merlingoldman.com) (PhD student 2026-present, C4DM, co-supervision with Mark Sandler)
+* [Amias Hanley](https://amiashanley.com) (PhD student 2026-present, Geography/C4DM, co-supervision with Kathryn Yusoff)
+
+### Collaborators
+
 * [Tug O’Flaherty](https://tugoflaherty.com/) (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2024-25)
-* [Amias Hanley](https://amiashanley.com) (PhD student starting in Autumn 2026, Geography/C4DM, co-supervision with Kathryn Yusoff)
+* Nikhil Dexter Bullock (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2025-2026) 
+
 
 ### Visitors
 
-* [Panagiota Anastasopoulou](https://github.com/allholy/allholy.github.io) (PhD student at the Music Technology Group, Universitat Pompeu Fabra, Barcelona)
+* [Panagiota Anastasopoulou](https://github.com/allholy/allholy.github.io) (PhD student at the Music Technology Group, Universitat Pompeu Fabra, Barcelona) (March-June 2026)
+
 ### MSc project students
 
 * Jimena Arruti (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2025-2026)
@@ -29,6 +34,30 @@ tags:
 * Joseph McSloy (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2025-2026)
 * Avynne Marie Trembly (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2025-2026)
 * Samantha Xie Vern Chan (MSc Computer Science (Conversion), Queen Mary University of London, MSc project 2025-2026)
+
+### UG project students
+
+* Manveen Singh (BEng Electronic Engineering, Queen Mary University of London, BSc project 2026-2027)
+* Muhammed Tunu (BSc Computer Science, Queen Mary University of London, BSc project 2026-2027)
+* Reece Karsan (BSc Computer Science, Queen Mary University of London, BSc project 2026-2027)
+* Abir Khan (BSc Computer Science, Queen Mary University of London, BSc project 2026-2027)
+* Jamari Bullock (BSc Computer Science,  Queen Mary University of London, BSc project 2026-2027) 
+* Bryan Mendes Da Costa (BSc Computer Science,  Queen Mary University of London, BSc project 2026-2027)
+* Prabhdeep Mall (BSc Computer Science,  Queen Mary University of London, BSc project 2026-2027)
+
+## Alumni
+
+### Postdocs
+
+* [Dr Luigi Marino](http://www.luigimarino.net/) (Research Fellow in Sound and Music Computing, Queen Mary University of London, 2023-2025)
+
+### MSc project students
+
+* [Tug O’Flaherty](https://tugoflaherty.com/) (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2024-25)
+* Xinyue Xu (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2024-2025)
+* [Andrés Sánchez Castrillón](https://www.linkedin.com/in/andres-sanchez-59a8331a6/) (MSc Artificial Intelligence, Queen Mary University of London, MSc project 2024-2025)
+* James Shortland (MSc Data Science and Artificial Intelligence, Queen Mary University of London, MSc project 2024-2025)
+
 ### UG project students
 
 * Aleena Nizami (BSc Computer Science and AI, Queen Mary University of London, BSc project 2025-2026)
@@ -37,16 +66,6 @@ tags:
 * Hudhayfa Abdus-Salaam Ahmed (BSc Computer Science, Queen Mary University of London, BSc project 2025-2026)
 * Molly Hall (BSc Computer Science,  Queen Mary University of London, BSc project 2025-2026) 
 * Veer Arora (BSc Computer Science,  Queen Mary University of London, BSc project 2025-2026)
-
-## Alumni
-
-### MSc project students
-
-* Xinyue Xu (MSc Sound and Music Computing, Queen Mary University of London, MSc project 2024-2025)
-* [Andrés Sánchez Castrillón](https://www.linkedin.com/in/andres-sanchez-59a8331a6/) (MSc Artificial Intelligence, Queen Mary University of London, MSc project 2024-2025)
-* James Shortland (MSc Data Science and Artificial Intelligence, Queen Mary University of London, MSc project 2024-2025)
-### UG project students
-
 * [Aleksander Skutnik](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/) (BSc Computer Science, Queen Mary University of London, BSc project 2024-2025)
 * [Stanley Parker](https://www.linkedin.com/in/stanley-parker-43113425a) (BSc Creative Computing, Queen Mary University of London, BSc project 2024-2025)
 * [Ning Liu](https://www.linkedin.com/in/ning-liu-2969103b3/) (BSc(Eng)FT Electronic Engineering, Queen Mary University of London, BSc project 2024-2025)

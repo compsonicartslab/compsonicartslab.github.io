@@ -6,10 +6,21 @@ tags:
 ---
 ## 2026
 
+- Zheng, S., Yoshida, K., García-Peguinho, N., Jiatong, L., Hearn, D., Xambó, A., Bryan-Kinns, N. (2026) [Latent Terrain: Adapting Neural Audio Autoencoders as Design Materials in NIME](https://zenodo.org/records/20784133). In Proceedings of the New Interfaces for Musical Expression. doi: 10.5281/zenodo.20784133.
+- Bullock, N., Saitis, C., Xambó, A. (2026) [Algorithmic Drum Machine with Light Dependent Timbre Control](https://zenodo.org/records/20784486). In Proceedings of the New Interfaces for Musical Expression. doi: 10.5281/zenodo.20784486.
+- Chiurazzi, R., Xambó, A., Saitis, C. (2026) [Performing Sequences: Interaction and Instrumentality in the Design of a Performable Sequencing System](https://zenodo.org/records/20784478). In Proceedings of the New Interfaces for Musical Expression. doi: 10.5281/zenodo.20784478.
+- Xambó, A. (2026). [Sensing the Alice Holt Forest](https://zenodo.org/records/20782168). Proceedings of the International Conference on New Interfaces for Musical Expression, 195–196. doi: 10.5281/zenodo.20782168.
+- Gaster, B., Tragtenberg, J., Xambó Sedó, A., and Mitchell, T. (eds.) (2026) [Proceedings of the International Conference on New Interfaces for Musical Expression](https://nime.org/papers/). Loughborough University London/Imperial College London. ISSN 2220-4806.
+- Erdem, Ç., Xambó, A., Serafin, S., Griwodz, C. (2026). [Editorial: Embodied Perspectives on Sound and Music AI](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1906653/full). Frontiers in Computer Science. 8:1906653. doi: 10.3389/fcomp.2026.1906653.
+- Zheng, S. J., Xambó Sedó, A., Bryan-Kinns, N. (2026). [Explainable AI through the Lens of Material Agency: Enabling Musical Interface Design with Neural Audio Models](https://arxiv.org/abs/2607.23309). arXiv preprint arXiv:2607.23309. Preprint for ”Explainable AI for the Arts” (N. Bryan-Kinns, Ed.), Springer. doi: 10.48550/arXiv.2607.23309.
 - Marino, Luigi (2026) [Building DIY Solar-Powered Audio Streamers: A Three-Phase Tutorial Series](https://doi.org/10.17636/101124743). Edited by Anna Xambó. Queen Mary University of London. [https://doi.org/10.17636/101124743](https://doi.org/10.17636/101124743)
 - Elmokadem, Mahmoud B., Manjunatha, Krishna N., Xenakis, George, Xambó, Anna (2026) [Environmental Parameters Sensing (EPS) Unit](https://doi.org/10.17636/101124744). Edited by Anna Xambó. Queen Mary University of London. [https://doi.org/10.17636/101124744](https://doi.org/10.17636/101124744)
+
 ## 2025
 
+* Erdem, Ç., Xambó, A., Serafin, S., Griwodz, C. (2025). [Special Issue on Embodied Perspectives on Sound and Music AI](https://www.frontiersin.org/research-topics/64735/embodied-perspectives-on-sound-and-music-ai). Frontiers in Computer Science.
+* Wang, L., Roman, I.R., Xambó, A. (2025) [Towards Real-Time, Stable Mapping from Multimodal Sensing to Interpretable Timbre Axes](https://qmro.qmul.ac.uk/handle/123456789/120259), DMRN+20, 16 December 2025, King’s College London, London, UK.
+* García-Peguinho, N., Kelly, D., Navaratnarajah, M., Chockler, H., Xambó, A. (2025) [Validating Few-shot Bird Vocalisation Detection through Causal Explanations](https://sensingtheforest.github.io/assets/pdf/ReX_StF_DMRN_PosterAbstract.pdf), DMRN+20, 16 December 2025, King’s College London, London, UK.
 * Zheng, S. J., Xambó Sedó, A., & Bryan-Kinns, N. (2025). [Exploring gestural affordances in audio latent space navigation](https://doi.org/10.3389/fcomp.2025.1575202). _Frontiers in Computer Science_. [https://doi.org/10.3389/fcomp.2025.1575202](https://doi.org/10.3389/fcomp.2025.1575202) 
 * Zhang, Q., Barthet, M., Xambó Sedó, A. (2025) [“From Shape to Music: Contour-Conditioned Symbolic Music Generation”](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/113712/Zhang%20From%20Shape%20to%20Music%202025%20Accepted.pdf). _Proceedings of the International Conference on Technologies for Music Notation and Representation (TENOR 2025)_. Central Conservatory of Music Beijing, Beijing, China.
 * O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó Sedó, A., (2025) [“Sonification Mappings for Sensing Tree Stress: A DIY Approach”](https://zenodo.org/records/17642480). Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.

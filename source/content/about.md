@@ -5,11 +5,14 @@ tags:
   -
 ---
 
+![](img/20251016-C4DM-CSAL-photo-v3-by-Shuoyang-Zheng.jpg)
+*From left to right: Shuoyang Zheng, Lianganzi Wang, Anna Xambó Sedó, Nico García-Peguinho, Merlin Goldman and Jimena Arruti. Top, from left to right: Lina Bautista, Qiaoxi Zhang and Solomiya Moroz. Photo and photo composition by Shuoyang Zheng.*
+
 > ## The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand sound and music computing.
 
-The Computational Sonic Arts Laboratory (CSAL) is a research team based in the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) (C4DM) at Queen Mary University of London dedicated to advancing the intersection of sonic arts and cutting-edge technology. The lab is led by [Dr Anna Xambó Sedó](https://www.c4dm.eecs.qmul.ac.uk/) and has been founded in 2025 as part of QMUL's Centre for Digital Music. 
+The Computational Sonic Arts Laboratory (CSAL) is a research team based in the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) (C4DM) at Queen Mary University of London dedicated to advancing the intersection of sonic arts and cutting-edge technology. The lab is led by [Dr Anna Xambó Sedó](https://www.c4dm.eecs.qmul.ac.uk/) and has been founded in 2025 as part of QMUL's Centre for Digital Music.
 
-Rooted in principles of **culture**, **creativity**, and **community**, the lab explores **sonic creativities** and **creative computing** through innovative research in **creative AI**, **music AI**, and **intelligent music systems**. The vision of the lab is to bridge **HCI**, **sound and music computing**, and **new interfaces for musical expression**, by emphasising **live coding**, **network music**, and **generative sound-based music**. The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.
+Rooted in principles of **culture**, **creativity**, and **community**, the lab explores **sonic creativities** and **creative computing** through innovative research in **creative AI**, **sound-based music AI**, and **intelligent music systems**. The vision of the lab is to bridge **HCI**, **sound and music computing**, and **new interfaces for musical expression**, by emphasising **live coding**, **network music**, and **generative sound-based music**. The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand music.
 
 **Research activities include:**
 
@@ -19,4 +22,5 @@ Rooted in principles of **culture**, **creativity**, and **community**, the lab 
 
 The lab hosts the AHRC-funded project [Sensing the Forest - Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI](https://sensingtheforest.github.io/), which pursues raising awareness and understanding of forest environmental data and how they relate to climate change.
 
-Please, get in touch if you are interested in PhD opportunities. The Centre for Digital Music of Queen Mary University of London [welcomes PhD applications for 2025](https://www.c4dm.eecs.qmul.ac.uk/get-involved/). 
+Please, get in touch if you are interested in PhD opportunities. The Centre for Digital Music of Queen Mary University of London [welcomes PhD applications from time to time](https://www.c4dm.eecs.qmul.ac.uk/get-involved/). 
+
