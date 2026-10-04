@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    logo: "/static/csal-logo.png",
+    logo: "/static/csal-logo.gif",
     locale: "en-US",
     baseUrl: "compsonicartslab.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],

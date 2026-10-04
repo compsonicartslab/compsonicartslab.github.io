@@ -8,7 +8,7 @@ tags:
   - news
   - ramsgate
 date: 2026-05-21  
-image: img/20260521-c4dm-csal-ramsgate-visit.jpg 
+image: img/20260521-c4dm-csal-ramsgate-museum-visit.jpg 
 ---
 
 ![](img/20260521-c4dm-csal-ramsgate-museum-visit.jpg)

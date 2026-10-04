@@ -1,7 +1,8 @@
 ---
 title: Publications
 draft: false
-date: 2026-10-04
+date: 2025-10-05
+last-modified: 2026-10-04
 tags:
   -  
 ---
