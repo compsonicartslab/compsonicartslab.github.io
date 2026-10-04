@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+   afterBody: [Component.PageCards({ tag: "news", limit: 12 })],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/compsonicartslab",
@@ -47,3 +47,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
