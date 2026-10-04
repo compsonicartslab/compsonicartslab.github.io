@@ -1,5 +1,6 @@
 ---
 title: Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |
+date: 2026-10-04
 ---
 
 [[about]] | [[publications]] | [[people]] | [[meetups]]

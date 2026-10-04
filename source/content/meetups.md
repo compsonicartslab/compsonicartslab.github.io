@@ -3,6 +3,7 @@ title: Meetups
 draft: false
 tags:
   - meetups
+date: 2026-10-04
 ---
 ## Meetups
 
