@@ -7,7 +7,7 @@ date: 2026-10-04
 ---
 ## Meetups
 
-![](img/20260730-c4dm-csal-writing-retreat-1-photo-by-shuoyang-zheng.jpg)
+![](/img/20260730-c4dm-csal-writing-retreat-1-photo-by-shuoyang-zheng.jpg)
 *Our first (hybrid) summer writing retreat on 30th July 2026. From left to right: Nikhil Dexter Bullock, Tug O’Flaherty, Panagiota Anastasopoulou, Nicolás António García-Peguinho, Anna Xambó Sedó, and Shuoyang Zheng. Photo by Shuoyang Zheng.*
 
 ### 2025-26
