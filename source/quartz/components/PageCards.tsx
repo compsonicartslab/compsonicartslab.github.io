@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { resolveRelative, slugifyFilePath, FilePath } from "../util/path"
+import { formatDate } from "./Date"
 
 interface Options {
   tag: string      // only list pages with this tag
@@ -9,7 +10,7 @@ interface Options {
 export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { tag: "news", limit: 10, ...userOpts }
 
-  const PageCards: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
+  const PageCards: QuartzComponent = ({ fileData, allFiles, cfg }: QuartzComponentProps) => {
     if (fileData.slug !== "index") return null // homepage only
 
     const pages = allFiles
@@ -29,6 +30,9 @@ export default ((userOpts?: Partial<Options>) => {
               <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                 {imgSrc && <img src={imgSrc} alt={page.frontmatter?.title} loading="lazy" />}
                 <span>{page.frontmatter?.title}</span>
+                {page.dates?.created && (
+      <time class="card-date">{formatDate(page.dates.created, cfg.locale)}</time>
+    )}
               </a>
             </li>
           )
@@ -43,6 +47,8 @@ export default ((userOpts?: Partial<Options>) => {
   .page-cards li { margin: 0; }
   .page-cards a { display: block; text-decoration: none; background: transparent; }
   .page-cards img { width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 6px; margin: 0 0 .4rem; }
+  .page-cards .card-title { display: block; }
+  .page-cards .card-date { display: block; font-size: 0.8rem; color: var(--gray); margin-top: 0.15rem;  }
   `
   return PageCards
 }) satisfies QuartzComponentConstructor

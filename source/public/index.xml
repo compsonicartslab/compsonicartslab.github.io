@@ -6,12 +6,6 @@
       <description>Last 10 notes on Computational Sonic Arts Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to the Computational Sonic Arts Lab | C4DM | QMUL |</title>
-    <link>https://compsonicartslab.github.io/</link>
-    <guid>https://compsonicartslab.github.io/</guid>
-    <description>about | publications | people | meetups From left to right: Nikhil Dexter Bullock, Nicolás António García-Peguinho, Anna Xambó Sedó, Tug O’Flaherty, Panagiota Anastasopoulou, ...</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Meetups</title>
     <link>https://compsonicartslab.github.io/meetups</link>
     <guid>https://compsonicartslab.github.io/meetups</guid>
@@ -65,6 +59,12 @@
     <guid>https://compsonicartslab.github.io/news/2026/08/CSAL-2025-26-Meeting-11</guid>
     <description> From left to right: Shuoyang Zheng, Anna Xambó Sedó, and Tug O’Flaherty. Photo by Shuoyang Zheng. Day/time: 24/8/2026 1pm-3pm Location: 2.05 Dept W/Teams Summary This was the 3rd and last writing retreat of the month to have a focused time for writing HCI-related topics.</description>
     <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>CSAL 2025-26 Meeting 10</title>
+    <link>https://compsonicartslab.github.io/news/2026/08/CSAL-2025-26-Meeting-10</link>
+    <guid>https://compsonicartslab.github.io/news/2026/08/CSAL-2025-26-Meeting-10</guid>
+    <description>...</description>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
