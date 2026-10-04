@@ -5,6 +5,10 @@ date: 2026-10-04
 tags:
   -
 ---
+
+![](/img/20251016-c4dm-csal-photo-v3-by-shuoyang-zheng.jpg)
+*From left to right: Shuoyang Zheng, Lianganzi Wang, Anna Xambó Sedó, Nico García-Peguinho, Merlin Goldman and Jimena Arruti. Top, from left to right: Lina Bautista, Qiaoxi Zhang and Solomiya Moroz. Photo and photo composition by Shuoyang Zheng, 16 October 2025.*
+
 ## Members
 
 * [Dr Anna Xambó](https://annaxambo.me/) (Senior Lecturer in Sound and Music Computing, Queen Mary University of London)

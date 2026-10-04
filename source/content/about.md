@@ -5,8 +5,8 @@ tags:
   -
 ---
 
-![](/img/20251016-C4DM-CSAL-photo-v3-by-Shuoyang-Zheng.jpg)
-*From left to right: Shuoyang Zheng, Lianganzi Wang, Anna Xambó Sedó, Nico García-Peguinho, Merlin Goldman and Jimena Arruti. Top, from left to right: Lina Bautista, Qiaoxi Zhang and Solomiya Moroz. Photo and photo composition by Shuoyang Zheng.*
+![](/img/2025-dendrophone-and-streamers-sensing-the-forest.jpg)
+*Peter Batchelor's Dendrophone multichannel sound installation and Luigi Marino's streamer at Alice Holt Forest in the UK as one of the artistic interventions of the AHRC Sensing the Forest project (2024-2025).*
 
 > ## The lab aims to become a research hub in developing sustainable, inclusive, and forward-thinking technologies that transform how we create, experience, and understand sound and music computing.
 
