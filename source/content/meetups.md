@@ -6,12 +6,11 @@ tags:
 date: 2026-10-04
 last-modified: 2026-10-04
 ---
-## Meetups
 
 ![](/img/20260730-c4dm-csal-writing-retreat-1-photo-by-shuoyang-zheng.jpg)
 *Our first (hybrid) summer writing retreat on 30th July 2026. From left to right: Nikhil Dexter Bullock, Tug O’Flaherty, Panagiota Anastasopoulou, Nicolás António García-Peguinho, Anna Xambó Sedó, and Shuoyang Zheng. Photo by Shuoyang Zheng, 30 July 2026.*
 
-### 2025-26
+## 2025-26
 
 * [[CSAL 2025-26 Meeting 01]] - 16/10/2025 11am-12pm  -  PL4.24/Teams - **Main topic: Get to know each other.**
 * [[CSAL 2025-26 Meeting 02]] - 13/11/202511am-12pm  - G2/Teams - **Main topic: Shuoyang presents his Frontier's journal article " Exploring gestural affordances in audio latent space navigation".**
@@ -25,7 +24,7 @@ last-modified: 2026-10-04
 * [[CSAL 2025-26 Meeting 10]] - 12/8/2026 9am-5pm  - 1.05 Dept W/Teams. **Main topic: Summer writing retreat 3/3.**
 * [[CSAL 2025-26 Meeting 11]] - 24/8/2026 9am-5pm  - 2.05 Dept W/Teams. **Main topic: Summer writing retreat 3/3.**
 
-### 2026-27
+## 2026-27
 
 * CSAL 2026-27 Meeting 01 - 22/10/26 11am-12pm - G2/Teams. **Main topic: Catch up/Get to know each other.**
 * CSAL 2026-27 Meeting 02 - 12/11/26 11am-12pm - G2/Teams. **Main topic: TBD.**
