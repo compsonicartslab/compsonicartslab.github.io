@@ -10,6 +10,8 @@ last-modified: 2026-10-04
 ![](/img/20260730-c4dm-csal-writing-retreat-1-photo-by-shuoyang-zheng.jpg)
 *Our first (hybrid) summer writing retreat on 30th July 2026. From left to right: Nikhil Dexter Bullock, Tug O’Flaherty, Panagiota Anastasopoulou, Nicolás António García-Peguinho, Anna Xambó Sedó, and Shuoyang Zheng. Photo by Shuoyang Zheng, 30 July 2026.*
 
+The intention of the meetings is to keep up to date with the group members’ activities, share relevant information, help with the preparation of presentations/paper writing, and do activities together as a group. We keep the meetings hybrid so that you can join remotely if you can’t join us on-site. The meetings are generally scheduled for the second-to-last Thursday of the month. 
+
 ## 2025-26
 
 * [[CSAL 2025-26 Meeting 01]] - 16/10/2025 11am-12pm  -  PL4.24/Teams - **Main topic: Get to know each other.**
