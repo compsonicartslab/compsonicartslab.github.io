@@ -28,7 +28,7 @@ The intention of the meetings is to keep up to date with the group members’ ac
 
 ## 2026-27
 
-* CSAL 2026-27 Meeting 01 - 22/10/26 11am-12pm - G2/Teams. **Main topic: Catch up/Get to know each other.**
+* [[CSAL 2026-27 Meeting 01]] - 22/10/26 11am-12pm - G2/Teams. **Main topic: Catch up/Get to know each other.**
 * CSAL 2026-27 Meeting 02 - 12/11/26 11am-12pm - G2/Teams. **Main topic: TBD.**
 * CSAL 2026-27 Meeting 03 - 10/12/26 11am-12pm - G2/Teams. **Main topic: TBD.**
 * CSAL 2026-27 Meeting 04 - 21/1/27 11am-12pm - G2/Teams. **Main topic: Working on NIME drafts.**

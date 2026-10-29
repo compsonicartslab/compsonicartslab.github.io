@@ -36,5 +36,3 @@ As part of the talk, Anna presented [MIRLCa on the web (MIRLCaweb)](https://mirl
 
 Thank you Chandra, Angela, Luise, Zentrum Pop and Film University Babelsberg for the invitation.
 
-[[Dr Anna Xambo at AI Soundscapes 2026]]
-

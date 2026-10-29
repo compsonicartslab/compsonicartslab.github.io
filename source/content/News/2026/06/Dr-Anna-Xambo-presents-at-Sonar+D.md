@@ -13,7 +13,7 @@ tags:
   - s+t+arts
   - sound-based music
   - sonar+d
-  - sonar festival
+  - sonar-festival
 
 date: 2026-06-18  
 image: img/2026​​0618-annaxambo-sonar+d-agora+d-photo-by-romanynana.jpg 

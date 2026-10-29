@@ -22,7 +22,7 @@ image: img/20250909-ukairs-stf-project-anna-xambo-and-gerard-roma.jpg
 
 The inaugural [UK AI Research Symposium (UKAIRS)](https://www.ukairs.ac.uk/) took place at Northumbria University, 8-9 September 2025, in Newcastle upon Tyne, UK – the first event to bring together researchers from a variety of academic disciplines, all working within the AI community.
 
-Gerard Roma and Anna Xamb´ø presented the Sensing the Forest project on Tuesday, 9th September 2025, with the poster:
+Gerard Roma and Anna Xambó presented the Sensing the Forest project on Tuesday, 9th September 2025, with the poster:
 
 - Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/110219/Xambo%20Soundscape-based%20music%202025%20Accepted.pdf?sequence=2), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK.
 
