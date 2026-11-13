@@ -28,4 +28,5 @@ Chaired by Alberto de Campo, this performance-keynote will present the following
 
 For more info about the conference visit: [https://aimc2026.org](https://aimc2026.org)
 
+Thanks to Alberto the Campo for the invitation, the AIMC conference organisers, the Musikinstrumenten-Museum with special thanks to Elisa Pieper and Sven Serfling-Krannich, and Frederic Font for all the help with the new Freesound API v2.
 
