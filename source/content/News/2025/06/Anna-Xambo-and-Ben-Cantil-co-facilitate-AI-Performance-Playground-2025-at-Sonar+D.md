@@ -10,7 +10,8 @@ tags:
   - news
   - sonar+d
   - s+t+arts
-  - sonar festival
+  - sonar-festival
+  - sonar+d
 date: 2025-05-15
 image: img/2025-sonar+d-ben-cantil-and-anna-xambo.jpg
 ---
