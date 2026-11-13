@@ -34,4 +34,4 @@ The visit has also been highlighted in the EECS news, thanks to Aurélie Leroy:
 
 * [C4DM students and researchers explore sound, technology and interaction at Tate Modern](https://www.qmul.ac.uk/eecs/news-and-events/news/items/c4dm-students-and-researchers-explore-sound-technology-and-interaction-at-tate-modern.html)
 
-Thanks, everyone, for a great morning on the field trip!
+Thanks, everyone, for a great morning on the field trip and to Susanna Garcia (Mind the Film) for the recommendation!
