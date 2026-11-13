@@ -29,13 +29,13 @@ Anna was invited to perform at [BotCamp 2026](https://eufonic.net/en/botcamp-202
 **Abstract**
 
 > What does a forest say when we truly listen to it? And what happens when what we hear starts to change? In Sentint la Serra de la Llaberia, Anna Xambó draws from the natural soundscapes of this area near Tivissa to activate a live coding performance that brings together acoustic ecology, technology and the climate crisis.
-
+>
 > At Tivissa, Anna Xambó works with field recordings from the forest to detect patterns, absences and shifts: whether the sounds of certain species are diminishing, whether environmental noise is gaining ground, or whether there are other sonic signs of an ecosystem in transformation. Through her own SuperCollider extension, which combines artificial intelligence and music information retrieval techniques, Xambó retrieves and manipulates in real time both her own sounds and shared materials from Freesound, turning listening into a tool for analysis, composition and warning.
 
 **Bio**
 
 > Anna Xambó is an experimental electronic music producer, sound artist and researcher. Her practice moves between radical digital minimalism, low frequencies, compulsive rhythms and noisy textures, in a terrain where sound, code and technical experimentation always go hand in hand.
-
+>
 > She has released four solo albums —init, On the Go, H2RI and detuning a tuning— and much of her work focuses on the development of sound and music computing systems, with a particular interest in collaborative, participatory and live coding practices. She is currently a lecturer and researcher at Queen Mary University of London, where she leads projects connecting listening, technology and the environment.
 
 For more info visit Festival Eufonic website: [https://eufonic.net/en/activitat/anna-xambo/](https://eufonic.net/en/activitat/anna-xambo/> )

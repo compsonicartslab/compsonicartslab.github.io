@@ -12,6 +12,17 @@ last-modified: 2026-10-04
 
 The intention of the meetings is to keep up to date with the group members’ activities, share relevant information, help with the preparation of presentations/paper writing, discuss the state-of-the art, and do activities together as a group. We keep the meetings hybrid so that you can join remotely if you can’t join us on-site. The meetings are generally scheduled for the second-to-last Thursday of the month. 
 
+## 2026-27
+
+* [[CSAL 2026-27 Meeting 01]] - 22/10/26 11am-12pm - G2/Teams. **Main topic: Catch up/Get to know each other.**
+* [[CSAL 2026-27 Meeting 02]] - 12/11/26 11am-12pm - G2/Teams. **Main topic: Lab's mission revisited.**
+* CSAL 2026-27 Meeting 03 - 10/12/26 11am-12pm - G2/Teams. **Main topic: TBD.**
+* CSAL 2026-27 Meeting 04 - 21/1/27 11am-12pm - G2/Teams. **Main topic: Working on NIME drafts.**
+* CSAL 2026-27 Meeting 05 - 18/2/27 11am-12pm - G2/Teams. **Main topic: Working on ISMIR drafts.**
+* CSAL 2026-27 Meeting 06 - 18/3/27 11am-12pm - G2/Teams. **Main topic: TBD.**
+* CSAL 2026-27 Meeting 07 - 15/4/27 11am-12pm - G2/Teams. **Main topic: TBD.**
+* CSAL 2026-27 Meeting 07 - 20/5/27 11am-12pm - G2/Teams. **Main topic: TBD.**
+
 ## 2025-26
 
 * [[CSAL 2025-26 Meeting 01]] - 16/10/2025 11am-12pm  -  PL4.24/Teams - **Main topic: Get to know each other.**
@@ -25,15 +36,4 @@ The intention of the meetings is to keep up to date with the group members’ ac
 * [[CSAL 2025-26 Meeting 09]] - 30/7/2026 9am-5pm  -  3.05 Dept W/Teams. **Main topic: Summer writing retreat 1/3.**
 * [[CSAL 2025-26 Meeting 10]] - 12/8/2026 9am-5pm  - 1.05 Dept W/Teams. **Main topic: Summer writing retreat 3/3.**
 * [[CSAL 2025-26 Meeting 11]] - 24/8/2026 9am-5pm  - 2.05 Dept W/Teams. **Main topic: Summer writing retreat 3/3.**
-
-## 2026-27
-
-* [[CSAL 2026-27 Meeting 01]] - 22/10/26 11am-12pm - G2/Teams. **Main topic: Catch up/Get to know each other.**
-* [[CSAL 2026-27 Meeting 02]] - 12/11/26 11am-12pm - G2/Teams. **Main topic: Lab's mission revisited.**
-* CSAL 2026-27 Meeting 03 - 10/12/26 11am-12pm - G2/Teams. **Main topic: TBD.**
-* CSAL 2026-27 Meeting 04 - 21/1/27 11am-12pm - G2/Teams. **Main topic: Working on NIME drafts.**
-* CSAL 2026-27 Meeting 05 - 18/2/27 11am-12pm - G2/Teams. **Main topic: Working on ISMIR drafts.**
-* CSAL 2026-27 Meeting 06 - 18/3/27 11am-12pm - G2/Teams. **Main topic: TBD.**
-* CSAL 2026-27 Meeting 07 - 15/4/27 11am-12pm - G2/Teams. **Main topic: TBD.**
-* CSAL 2026-27 Meeting 07 - 20/5/27 11am-12pm - G2/Teams. **Main topic: TBD.**
 
